@@ -2,5 +2,5 @@ package main
 
 func main() {
 	//readDictXml(`handwriting-demo.xml`)
-	drawDemo()
+	readDictXml(`handwriting-zh_CN.xml`)
 }
