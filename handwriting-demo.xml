@@ -1,0 +1,135 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE dictionary SYSTEM "dict.dtd">
+<dictionary name="Tomoe Handwriting Dictionary">
+  <character>
+    <utf8>&#x4E00;</utf8>
+    <strokes>
+      <stroke>
+        <point x="75" y="464"/>
+        <point x="923" y="468"/>
+      </stroke>
+    </strokes>
+  </character>
+  <character>
+    <utf8>&#x4E01;</utf8>
+    <strokes>
+      <stroke>
+        <point x="93" y="198"/>
+        <point x="913" y="205"/>
+      </stroke>
+      <stroke>
+        <point x="495" y="203"/>
+        <point x="470" y="847"/>
+        <point x="405" y="784"/>
+      </stroke>
+    </strokes>
+  </character>
+  <character>
+    <utf8>&#x4E03;</utf8>
+    <strokes>
+      <stroke>
+        <point x="85" y="508"/>
+        <point x="895" y="338"/>
+      </stroke>
+      <stroke>
+        <point x="465" y="120"/>
+        <point x="483" y="802"/>
+        <point x="860" y="800"/>
+        <point x="905" y="667"/>
+      </stroke>
+    </strokes>
+  </character>
+  <character>
+    <utf8>&#x4E07;</utf8>
+    <strokes>
+      <stroke>
+        <point x="178" y="244"/>
+        <point x="885" y="179"/>
+      </stroke>
+      <stroke>
+        <point x="493" y="240"/>
+        <point x="358" y="519"/>
+        <point x="130" y="704"/>
+      </stroke>
+      <stroke>
+        <point x="453" y="392"/>
+        <point x="730" y="390"/>
+        <point x="645" y="597"/>
+        <point x="535" y="769"/>
+        <point x="445" y="675"/>
+      </stroke>
+    </strokes>
+  </character>
+  <character>
+    <utf8>&#x4E08;</utf8>
+    <strokes>
+      <stroke>
+        <point x="230" y="390"/>
+        <point x="730" y="312"/>
+      </stroke>
+      <stroke>
+        <point x="520" y="133"/>
+        <point x="478" y="514"/>
+        <point x="305" y="736"/>
+        <point x="160" y="784"/>
+      </stroke>
+      <stroke>
+        <point x="280" y="475"/>
+        <point x="525" y="673"/>
+        <point x="733" y="826"/>
+        <point x="940" y="817"/>
+      </stroke>
+    </strokes>
+  </character>
+  <character>
+    <utf8>&#x4E09;</utf8>
+    <strokes>
+      <stroke>
+        <point x="360" y="242"/>
+        <point x="738" y="190"/>
+      </stroke>
+      <stroke>
+        <point x="358" y="447"/>
+        <point x="663" y="425"/>
+      </stroke>
+      <stroke>
+        <point x="108" y="702"/>
+        <point x="890" y="654"/>
+      </stroke>
+    </strokes>
+  </character>
+  <character>
+    <utf8>&#x4E0A;</utf8>
+    <strokes>
+      <stroke>
+        <point x="475" y="139"/>
+        <point x="470" y="693"/>
+      </stroke>
+      <stroke>
+        <point x="503" y="392"/>
+        <point x="740" y="359"/>
+      </stroke>
+      <stroke>
+        <point x="110" y="749"/>
+        <point x="908" y="712"/>
+      </stroke>
+    </strokes>
+  </character>
+  <character>
+    <utf8>&#x4E0B;</utf8>
+    <strokes>
+      <stroke>
+        <point x="128" y="240"/>
+        <point x="900" y="176"/>
+      </stroke>
+      <stroke>
+        <point x="493" y="227"/>
+        <point x="505" y="808"/>
+      </stroke>
+      <stroke>
+        <point x="525" y="368"/>
+        <point x="748" y="484"/>
+      </stroke>
+    </strokes>
+  </character>
+</dictionary>
