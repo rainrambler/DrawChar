@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/xml"
 	"fmt"
+	"strconv"
 )
 
 // Dictionary was generated 2023-04-24 03:03:54 by https://xml-to-go.github.io/
@@ -66,7 +67,10 @@ func readDictXml(filename string) {
 
 	dict := &Dictionary2{}
 	xml.Unmarshal(bs, dict)
-	fmt.Println(dict)
+
+	fmt.Printf("[INFO]Total %d chars.\n", len(dict.Character))
+
+	DrawDictionary(dict)
 }
 
 func drawDemo() {
@@ -75,4 +79,13 @@ func drawDemo() {
 	oc.Utf8 = "22"
 
 	drawChar(&oc)
+}
+
+func str2f64(s string) float64 {
+	fv, err := strconv.ParseFloat(s, 64)
+	if err != nil {
+		fmt.Printf("Cannot convert %s to float64!\n", s)
+		return 0.0
+	}
+	return fv
 }
